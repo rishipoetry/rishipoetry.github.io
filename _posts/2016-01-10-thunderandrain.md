@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: Thunder and Rain
+title: Thunder and Rains
 ---
 
 <p>She was the thunder no one understood, </p>
