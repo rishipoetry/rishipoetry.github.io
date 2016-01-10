@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: 
+title: Hide and Seek
 ---
 <p>She stayed away from the brightness</p>
 <p>The sun and the lights</p>
