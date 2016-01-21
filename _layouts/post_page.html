@@ -31,7 +31,7 @@ layout: default
 				</a>
 			</article>
 			<article class="post">
-				<h3>{{ page.date | date: "%d %B %Y" }}</h3>
+				
 				<h2 class="content">{{page.title}}</h2>
 				
 				<section id ="share buttons">
@@ -44,6 +44,7 @@ layout: default
 				<hr>
 				<section>
 					{{ content }}
+					<h5>{{ page.date | date: "%d %B %Y" }}</h5>
 					<hr>
 				</section>
 				<section style="font-weight:bold; margin-bottom: 2em;">
