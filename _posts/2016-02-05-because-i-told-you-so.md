@@ -1,5 +1,5 @@
 ---
-layout:post_page
+layout: post_page
 title: Because I told you so
 ---
 No, mother
