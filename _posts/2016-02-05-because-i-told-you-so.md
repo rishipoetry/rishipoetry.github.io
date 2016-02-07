@@ -1,6 +1,6 @@
 ---
 layout:post_page
-title: Because I told you so by Susan Ryan
+title: Because I told you so
 ---
 No, mother
 
@@ -77,3 +77,5 @@ I will be the man of the world, the woman in a herd
 I will choose to live better than my own yesterday
 
 I'm going to look at the bright, beautiful stars and celebrate me
+
+--Susan Ryan
